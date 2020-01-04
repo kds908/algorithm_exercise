@@ -1,9 +1,8 @@
 package codes.day02;
 
 /**
- * @author Abner Song
+ * @author Abner.S
  * @description
- * @email songkd90@163.com
  * @date 2020/1/4 23:38
  */
 public class RemoveDuplicatesFromSortedArray {

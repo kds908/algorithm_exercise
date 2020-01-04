@@ -1,9 +1,8 @@
 package codes.day01;
 
 /**
- * @author Abner Song
+ * @author Abner.S
  * @description
- * @email songkd90@163.com
  * @date 2020/1/4 23:32
  */
 public class RotateArray {
