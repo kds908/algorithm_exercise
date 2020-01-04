@@ -15,6 +15,12 @@ public class RotateArray {
         this.reverse(nums, k, nums.length - 1);
     }
 
+    /**
+     * 反转数组
+     * @param nums 待反转数组
+     * @param start 反转开始下标
+     * @param end 反转结束下标
+     */
     public void reverse(int[] nums, int start, int end) {
         while(start < end) {
             int tempNum = nums[start];
